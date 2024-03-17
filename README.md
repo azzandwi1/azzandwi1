@@ -3,7 +3,7 @@
 
 ### Hi! 👋 I'm Azzan.
 
-A third-year Informatics Engineering student at Universitas Mercu Buana, with a focus on machine learning and data analysis. 
+A third-year Informatics Engineering student at Universitas Mercu Buana, with interest in machine learning and data analysis
 
 Currently participating in the Bangkit Academy 2024 By Google, GoTo, Traveloka - Machine Learning Learning Path. You can visit my specific GitHub for this program [here](https://github.com/badr-ol).
 
