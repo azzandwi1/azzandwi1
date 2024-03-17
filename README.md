@@ -23,6 +23,6 @@ Currently participating in the Bangkit Academy 2024 By Google, GoTo, Traveloka -
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/azzandr/" target="blank">LinkedIn</a>
+- <a href="https://linkedin.com/in/azzandr/">LinkedIn</a>
 - azzandwiriski145@gmail.com
-- <a href="https://instagram.com/azzandwi/" target="blank">Instagram</a>
+- <a href="https://instagram.com/azzandwi/">Instagram</a>
