@@ -7,7 +7,7 @@ A third-year Informatics Engineering student at Universitas Mercu Buana, with in
 
 Currently participating in the Bangkit Academy 2024 By Google, GoTo, Traveloka - Machine Learning Learning Path. You can visit my specific GitHub for this program [here](https://github.com/badr-ol).
 
-### Technology that i know
+### Technology that I know
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,python,postman,java,mysql,javascript,php,bootstrap,cpp&perline=5" />
 </a>
@@ -23,5 +23,6 @@ Currently participating in the Bangkit Academy 2024 By Google, GoTo, Traveloka -
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/azzandr/">LinkedIn</a>
+- <a href="https://linkedin.com/in/azzandr/" target="blank">LinkedIn</a>
 - azzandwiriski145@gmail.com
+- <a href="https://instagram.com/azzandwi/" target="blank">Instagram</a>
