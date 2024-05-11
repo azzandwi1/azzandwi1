@@ -3,13 +3,13 @@
 
 ### Hi! 👋 I'm Azzan.
 
-A third-year Informatics Engineering student at Universitas Mercu Buana, with interest in machine learning and data analysis
+A third-year Informatics Engineering student at Universitas Mercu Buana, with interest in machine learning and data analysis.
 
 Currently participating in the Bangkit Academy 2024 By Google, GoTo, Traveloka - Machine Learning Learning Path. You can visit my specific GitHub for this program [here](https://github.com/badr-ol).
 
 ### Technology that I know
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,python,postman,java,mysql,javascript,php,bootstrap,cpp&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,python,tensorflow,postman,java,mysql,javascript,php,bootstrap,cpp&perline=5" />
 </a>
 <br>
 <br>
