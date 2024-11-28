@@ -3,7 +3,7 @@
 
 # Hi there! 👋 I'm Azzan.
 
-🎓 **Undergraduate Engineering Student**  
+🎓 **Undergraduate Student**  
 📚 **Majoring in Informatics Engineering** at Universitas Mercu Buana  
 💡 **Passionate about AI and Machine Learning**  
 
