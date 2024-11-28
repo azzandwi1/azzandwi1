@@ -1,11 +1,13 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Hi! 👋 I'm Azzan.
+# Hi there! 👋 I'm Azzan.
 
-A third-year Informatics Engineering student at Universitas Mercu Buana, with interest in machine learning and data analysis.
+🎓 **Undergraduate Engineering Student**  
+📚 **Majoring in Informatics Engineering** at Universitas Mercu Buana  
+💡 **Passionate about AI and Machine Learning**  
 
-Currently participating in the Bangkit Academy 2024 By Google, GoTo, Traveloka - Machine Learning Learning Path. You can visit my specific GitHub for this program [here](https://github.com/badr-ol).
+---
 
 ### Technology that I know
 <a href="https://skillicons.dev">
